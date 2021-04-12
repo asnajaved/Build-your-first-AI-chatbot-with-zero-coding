@@ -67,3 +67,24 @@ Click on Try, to check your work
 
 <img width="350" alt="11" src="https://user-images.githubusercontent.com/16270682/114412980-08996580-9bc7-11eb-9b43-dd571233a7fd.PNG">
 
+Create intent WiDS_info
+
+what is WiDS?
+What is Women in Data Science ?
+WiDS?
+Tell me WiDS?
+Can you tell me about WiDS?
+
+
+## Step 5: Create your Dialog
+
+Select dialog, by default you will have two nodes 
+
+<img width="247" alt="12" src="https://user-images.githubusercontent.com/16270682/114418681-31702980-9bcc-11eb-8805-78767a805e62.PNG">
+
+
+Click on add node, name it greetings and add response "Hello, I am watson Assistant for Women in Data Science, Pakistan"
+
+<img width="719" alt="Screenshot_2021-04-12 IBM Watson Assistant" src="https://user-images.githubusercontent.com/16270682/114418738-3fbe4580-9bcc-11eb-9d6c-d94d204be6aa.png">
+
+
